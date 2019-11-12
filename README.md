@@ -8,6 +8,7 @@ prerequisites:
 - create a mac app in Chrome from www.songwhip.com and save it as SongWhip.app
 - Spotify and Viber installed
 - enable Accesibility services for these 3 apps above in System Prefenrences
+- install https://www.bluem.net/en/projects/cliclick/
 - download this Automator workflow and assign a keyboard shortcut to it in System Prefenrences
 
 workflow:
