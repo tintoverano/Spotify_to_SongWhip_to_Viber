@@ -12,7 +12,7 @@ prerequisites:
 
 workflow:
 
-1. select a song in Spotify
+1. select a song in Spotify by clicking on it
 2. hit the shortcut
 3. wait
 4. if all is OK hit enter in Viber to send the SongWhip link
