@@ -12,6 +12,7 @@ prerequisites:
 
 workflow:
 
+0. go to page "+ Make a link" in SongWhip app
 1. select a song in Spotify by clicking on it
 2. hit the shortcut
 3. wait
